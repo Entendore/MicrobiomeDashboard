@@ -1,0 +1,6 @@
+OTU,Phylum,Class,Order,Family,Genus
+OTU1,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Faecalibacterium
+OTU2,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella
+OTU3,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+OTU4,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+OTU5,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium
